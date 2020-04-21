@@ -1,0 +1,15 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "google-books client-side",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2mlcmonkeys"
+  },
+  "author": "2mlcmonkeys",
+  "license": "ISC"
+}
