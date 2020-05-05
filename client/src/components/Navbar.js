@@ -8,7 +8,7 @@ const navigator = (props) => {
 
   return (
     <div>
-      <Navbar color="faded" light>
+      <Navbar color="faded" light className="border-bottom border-dark p-4">
         <NavbarBrand href="/" className="mr-auto">Google Book Search</NavbarBrand>
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />
         <Collapse isOpen={!collapsed} navbar>
